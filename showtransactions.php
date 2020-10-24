@@ -19,7 +19,7 @@ require_once "connection.php";
     width: 5px;
 }
 body {
-    background-image: url("images/display.jpg");
+    background-image: url("display.jpg");
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -85,8 +85,9 @@ body {
  
                 <div class= "container">
                 <h1 id="heading"> &nbsp Transaction History &nbsp</h1>
- <div class= "table-responsive">  
+   <div class= "table-responsive"> 
  <table class="table table-hover table-bordered ">
+    
   <thead class="thead-dark">
     <tr  style= "background-color: #ffffff;">
       <th scope="col">S.No.</th>
