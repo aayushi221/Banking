@@ -1,22 +1,16 @@
 <?php
 
+$servername = "localhost";
+$username = "id15222326_aayushipandey";
+$password = ")uZ(w^mxIODs&A3Z1&J^";
+$database = "id15222326_mydb";
 
-$servername ="localhost";
-$username = "root";
-$password ="";
-$dbname = "banking-system";
+// Create connection
+$conn = mysqli_connect($servername, $username, $password, $database);
 
-
-$conn = mysqli_connect($servername, $username, $password, $dbname);
-
-if($conn)
-{
-echo "" ;
-}
-
-else
-{
-  die("Connection failed because" .mysqli_connect_error()) ;
+// Check connection
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
 }
 
 ?>
