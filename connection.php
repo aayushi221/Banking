@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "id15222326_aayushipandey";
-$password = ")uZ(w^mxIODs&A3Z1&J^";
+$password = "Kindle@89350";
 $database = "id15222326_new_db";
 
 // Create connection
