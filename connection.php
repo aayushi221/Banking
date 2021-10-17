@@ -1,7 +1,7 @@
 <?php
 
 $servername = "localhost";
-$username = "id15222326_aayushipandey";
+$username = "id15221976_newest_db";
 $password = "Kindle@89350";
 $database = "id15221976_new_db";
 
