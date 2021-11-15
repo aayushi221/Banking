@@ -1,12 +1,12 @@
 
 
-# A Simple Banking system 💰
+# Banking system 💰
 
 ![](https://socialify.git.ci/aayushi221/Banking/image?forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 ## What does it do?
 
-This website simply enables you to see users saved in the database and transfer money from their account to others' using HTML forms.
+This website enables you to see users saved in the database and transfer money from their account to others' using HTML forms. It can perform read and update operations.
 
 ### Workflow?
 
