@@ -8,9 +8,9 @@
 
 This website simply enables you to see users saved in the database and transfer money from their account to others' using HTML forms.
 
-### How does it do?
+### Workflow?
 
-It uses php to connect to the datbase and store information there. When needed it take information from the database and present it.
+It uses php to connect to the database and store information there. When needed it take information from the database and present it.
 
 ### See it here
 
